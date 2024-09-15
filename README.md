@@ -128,9 +128,15 @@ plot_pca_3d(X_pca_3d, y, explained_variance_3d)
 
 - **Scatter Plot**: A visualization technique used to display the relationship between variables. In this project, we use scatter plots to show the relationship between the principal components in 2D and 3D.
 
+## Output
+PCA Output 2D:
+
+![PCA_Output_2D](https://github.com/AartiDashore/PrincipalComponentAnalysisVisualization/blob/main/PCA_Output_1.png)
+
+PCA Output 3D:
+
+![PCA_Output_3D](https://github.com/AartiDashore/PrincipalComponentAnalysisVisualization/blob/main/PCA_Output_2.png)
+
 ## Conclusion
 
 This project provides a simple and intuitive way to apply and visualize PCA for dimensionality reduction. The 2D and 3D scatter plots allow us to observe how well the reduced dimensions capture the important characteristics of the dataset.
-
----
-
